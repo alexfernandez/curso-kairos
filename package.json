@@ -1,0 +1,24 @@
+{
+  "name": "curso-kairos",
+  "version": "0.0.1",
+  "description": "Curso para Kairós DS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfernandez/curso-kairos.git"
+  },
+  "keywords": [
+    "Kairós",
+    "Coursework"
+  ],
+  "author": "alexfernandeznpm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfernandez/curso-kairos/issues"
+  },
+  "homepage": "https://github.com/alexfernandez/curso-kairos#readme"
+}
