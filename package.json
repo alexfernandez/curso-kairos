@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alexfernandez/curso-kairos/issues"
   },
-  "homepage": "https://github.com/alexfernandez/curso-kairos#readme"
+  "homepage": "https://github.com/alexfernandez/curso-kairos#readme",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
 }
