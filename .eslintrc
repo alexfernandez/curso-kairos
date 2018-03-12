@@ -16,10 +16,10 @@ rules:
   no-constant-condition: 0
   indent:
   - error
-  - tab
+  - space
   max-len:
   - off
-  - tabWidth: 4
+  - tabWidth: 2
   linebreak-style:
   - error
   - unix

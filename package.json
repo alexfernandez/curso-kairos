@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/alexfernandez/curso-kairos#readme",
   "dependencies": {
-    "async": "^2.6.0"
+    "async": "^2.6.0",
+    "basic-request": "^1.2.2",
+    "simplecached": "0.0.3",
+    "supervisor": "^0.12.0"
   }
 }
